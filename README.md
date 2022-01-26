@@ -2,8 +2,7 @@
 
 <img width="1000" alt="ComboMNIST" src="https://user-images.githubusercontent.com/64993223/151096132-86b60cf5-c2ef-49d3-a850-135a08e5353c.png">
 
-## Project
- Status 🕒
+## Project Status 🕒
 
 Completed 🙌
 
