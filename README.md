@@ -1,4 +1,4 @@
-# CNN Multi Label-Image Classification ComboMNIST
+# CNN Multi-Label Image Classification ComboMNIST
 
 ## Project Status 🕒
 
