@@ -24,7 +24,7 @@ Completed 🙌
 
 ## Project Objectives ✅ 
 
-Develop models to classify image data from the ComboMNIST dataset (not open source), consisting of 60,000 images having both one number from 1-10 and one letter per images. Only 30,000 images are labeled, creating the need for semi-supervised learning techniques. 
+Develop models to classify image data from the ComboMNIST dataset (not open source), consisting of 60,000 images having both one number from 1-10 and one letter per image. Only 30,000 images are labeled, creating the need for semi-supervised learning techniques. 
 
 ## Methods ✍️
 
